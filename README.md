@@ -20,7 +20,6 @@ I'm a passionate full-stack Node.js developer and DevOps enthusiast based in Ind
 ## Let's Connect!
 
 - [LinkedIn](https://in.linkedin.com/in/jeetesh-nariya)
-- [Twitter](link-to-twitter-profile)
 - [Personal Website/Portfolio](link-to-personal-website)
 
 Feel free to reach out for collaboration, discussion, or just to say hi! 😊
